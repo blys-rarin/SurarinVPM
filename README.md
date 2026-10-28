@@ -9,7 +9,7 @@ VCC の Settings → Packages → Add Repository に、次の URL を入れま�
 In VCC, open Settings → Packages → Add Repository and enter:
 
 ```
-https://<GitHubのユーザー名>.github.io/SurarinVPM/index.json
+https://blys-rarin.github.io/SurarinVPM/index.json
 ```
 
 ## パッケージ / Packages

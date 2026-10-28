@@ -1,7 +1,7 @@
 {
   "name": "Surarin's Packages",
   "id": "com.surarin.vpm",
-  "url": "https://<GitHubのユーザー名>.github.io/SurarinVPM/index.json",
+  "url": "https://blys-rarin.github.io/SurarinVPM/index.json",
   "author": "Surarin",
   "packages": {
     "com.surarin.worldtitlegimmick": {
