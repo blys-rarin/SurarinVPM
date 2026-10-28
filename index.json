@@ -5,7 +5,36 @@
   "author": "Surarin",
   "packages": {
     "com.surarin.worldtitlegimmick": {
-      "versions": {}
+      "versions": {
+        "1.0.0": {
+          "name": "com.surarin.worldtitlegimmick",
+          "displayName": "World Title Gimmick",
+          "version": "1.0.0",
+          "unity": "2022.3",
+          "description": "VRChat ワールド内の称号ギミック。称号を集めて組み合わせ、肩書きとして頭上に出す。保存は PlayerData、同期は使わない。 / An in-world title system for VRChat worlds: collect titles, combine them into a nameplate shown above your head. Saved with PlayerData, no network sync.",
+          "author": {
+            "name": "Surarin"
+          },
+          "license": "SEE LICENSE IN LICENSE.md",
+          "licensesUrl": "",
+          "documentationUrl": "",
+          "changelogUrl": "",
+          "keywords": [
+            "VRChat",
+            "Udon",
+            "UdonSharp",
+            "World",
+            "Title",
+            "Persistence"
+          ],
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.10.5"
+          },
+          "legacyFolders": {},
+          "url": "https://blys-rarin.github.io/SurarinVPM/packages/com.surarin.worldtitlegimmick-1.0.0.zip",
+          "zipSHA256": "414c56b4864516d2d65ce4699bcea41e2cd81711e33341fde0fe7bba02ee3b0c"
+        }
+      }
     }
   }
 }
